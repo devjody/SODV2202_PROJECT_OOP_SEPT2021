@@ -1,0 +1,10 @@
+C:\Users\Jody\source\repos\Weramask\bin\Debug\Weramask.exe.config
+C:\Users\Jody\source\repos\Weramask\bin\Debug\Weramask.exe
+C:\Users\Jody\source\repos\Weramask\bin\Debug\Weramask.pdb
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.csproj.AssemblyReference.cache
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.Properties.Resources.resources
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.csproj.GenerateResource.cache
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.csproj.CoreCompileInputs.cache
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.exe
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.pdb
+C:\Users\Jody\source\repos\Weramask\obj\Debug\Weramask.app_home.resources
