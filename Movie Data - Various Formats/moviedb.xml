@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <moviedb>
+      <Title>Eternals</Title>
+      <Year>2021</Year>
+      <Rated>PG-13</Rated>
+      <Released>05-Nov-21</Released>
+      <Runtime>156</Runtime>
+      <Genre>Action, Adventure, Fantasy</Genre>
+      <Director>Chloe Zhao</Director>
+      <Writer>Chloe Zhao, Patrick Burleigh, Ryan Firpo</Writer>
+      <Actors>Gemma Chan, Richard Madden, Angelina Jolie</Actors>
+      <Plot>The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BMTExZmVjY2ItYTAzYi00MDdlLWFlOWItNTJhMDRjMzQ5ZGY0XkEyXkFqcGdeQXVyODIyOTEyMzY@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>6.90</imdbRating>
+      <imdbVotes>76,496</imdbVotes>
+      <imdbID>tt9032400</imdbID>
+      <BoxOffice> $85,021,497.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Dune: Part One</Title>
+      <Year>2021</Year>
+      <Rated>PG-13</Rated>
+      <Released>22-Oct-21</Released>
+      <Runtime>155</Runtime>
+      <Genre>Action, Adventure, Drama</Genre>
+      <Director>Denis Villeneuve</Director>
+      <Writer>Jon Spaihts, Denis Villeneuve, Eric Roth</Writer>
+      <Actors>Timothe Chalamet, Rebecca Ferguson, Zendaya</Actors>
+      <Plot>Feature adaptation of Frank Herbert&apos;s science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>8.20</imdbRating>
+      <imdbVotes>308,204</imdbVotes>
+      <imdbID>tt1160419</imdbID>
+      <BoxOffice> $86,400,407.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>No Time to Die</Title>
+      <Year>2021</Year>
+      <Rated>PG-13</Rated>
+      <Released>08-Oct-21</Released>
+      <Runtime>163</Runtime>
+      <Genre>Action, Adventure, Thriller</Genre>
+      <Director>Cary Joji Fukunaga</Director>
+      <Writer>Neal Purvis, Robert Wade, Cary Joji Fukunaga</Writer>
+      <Actors>Daniel Craig, Ana de Armas, Rami Malek</Actors>
+      <Plot>James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BYWQ2NzQ1NjktMzNkNS00MGY1LTgwMmMtYTllYTI5YzNmMmE0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Rotten Tomatoes</Source>
+      </Ratings>
+      <imdbRating>7.50</imdbRating>
+      <imdbVotes>166,926</imdbVotes>
+      <imdbID>tt2382320</imdbID>
+      <BoxOffice> $144,862,031.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Venom: Let There Be Carnage</Title>
+      <Year>2021</Year>
+      <Rated>PG-13</Rated>
+      <Released>01-Oct-21</Released>
+      <Runtime>97</Runtime>
+      <Genre>Action, Adventure, Sci-Fi</Genre>
+      <Director>Andy Serkis</Director>
+      <Writer>Kelly Marcel, Tom Hardy, Todd McFarlane</Writer>
+      <Actors>Tom Hardy, Woody Harrelson, Michelle Williams</Actors>
+      <Plot>Eddie Brock attempts to reignite his career by interviewing serial killer Cletus Kasady, who becomes the host of the symbiote Carnage and escapes prison after a failed execution.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BYTc3ZTAwYTgtMmM4ZS00MDRiLWI2Y2EtYmRiZmE0YjkzMGY1XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>6.30</imdbRating>
+      <imdbVotes>69,425</imdbVotes>
+      <imdbID>tt7097896</imdbID>
+      <BoxOffice> $203,700,066.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Ron&apos;s Gone Wrong</Title>
+      <Year>2021</Year>
+      <Rated>PG</Rated>
+      <Released>22-Oct-21</Released>
+      <Runtime>107</Runtime>
+      <Genre>Animation, Adventure, Comedy</Genre>
+      <Director>Sarah Smith, Jean-Philippe Vine, Octavio E. Rodriguez</Director>
+      <Writer>Peter Baynham, Sarah Smith</Writer>
+      <Actors>Jack Dylan Grazer, Zach Galifianakis, Ed Helms</Actors>
+      <Plot>The story of Barney, an awkward middle-schooler and Ron, his new walking, talking, digitally-connected device. Ron&apos;s malfunctions set against the backdrop of the social media age launch them on a journey to learn about true friendshi</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BMzMxMjllYTgtZWNjZS00ODc0LTljZWUtYjdiMDQ2ZDJkM2FkXkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>7.20</imdbRating>
+      <imdbVotes>3,387</imdbVotes>
+      <imdbID>tt7504818</imdbID>
+      <BoxOffice> $20,774,714.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Belfast</Title>
+      <Year>2021</Year>
+      <Rated>PG-13</Rated>
+      <Released>12-Nov-21</Released>
+      <Runtime>98</Runtime>
+      <Genre>Drama</Genre>
+      <Director>Kenneth Branagh</Director>
+      <Writer>Kenneth Branagh</Writer>
+      <Actors>Jude Hill, Lewis McAskie, Caitriona Balfe</Actors>
+      <Plot>A young boy and his working class family experience the tumultuous late 1960s.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BODMwYTYyY2ItOWQ5Yi00OTI1LTllYTQtYTdlNWM4YzJhYTM0XkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>7.60</imdbRating>
+      <imdbVotes>454</imdbVotes>
+      <imdbID>tt12789558</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>The French Dispatch</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>22-Oct-21</Released>
+      <Runtime>108</Runtime>
+      <Genre>Comedy, Drama, Romance</Genre>
+      <Director>Wes Anderson</Director>
+      <Writer>Wes Anderson, Roman Coppola, Hugo Guinness</Writer>
+      <Actors>Benicio Del Toro, Adrien Brody, Tilda Swinton</Actors>
+      <Plot>A love letter to journalists set in an outpost of an American newspaper in a fictional twentieth century French city that brings to life a collection of stories published in &quot;The French Dispatch Magazine&quot;.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BNmQxZTNiODYtNzBhYy00MzVlLWJlN2UtNTc4YWZjMDIwMmEzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>7.50</imdbRating>
+      <imdbVotes>19,995</imdbVotes>
+      <imdbID>tt8847712</imdbID>
+      <BoxOffice> $9,353,387.00 </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Spencer</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>05-Nov-21</Released>
+      <Runtime>111</Runtime>
+      <Genre>Biography, Drama, Romance</Genre>
+      <Director>Pablo Larraín</Director>
+      <Writer>Steven Knight</Writer>
+      <Actors>Kristen Stewart, Timothy Spall, Jack Nielen</Actors>
+      <Plot>During her Christmas holidays with the royal family at the Sandringham estate in Norfolk, England, Diana decides to leave her marriage to Prince Charles.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BMTdkZDc4YmQtYzA3My00NzliLThjN2YtMDIwMDkxY2Y4ODdmXkEyXkFqcGdeQXVyMTA2MDU0NjM5._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>6.80</imdbRating>
+      <imdbVotes>1,285</imdbVotes>
+      <imdbID>tt12536294</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>Antlers</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>29-Oct-21</Released>
+      <Runtime>99</Runtime>
+      <Genre>Drama, Horror, Mystery</Genre>
+      <Director>Scott Cooper</Director>
+      <Writer>Henry Chaisson, Nick Antosca, Scott Cooper</Writer>
+      <Actors>Keri Russell, Jesse Plemons, Jeremy T. Thomas</Actors>
+      <Plot>In an isolated Oregon town, a middle-school teacher and her sheriff brother become embroiled with her enigmatic student, whose dark secrets lead to terrifying encounters with a legendary ancestral creature who came before them.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BY2UzODAyNjktN2MwYy00M2RkLThiOTEtMjU1MTgxY2EzM2YyXkEyXkFqcGdeQXVyODk5MDA0MDU@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Rotten Tomatoes</Source>
+      </Ratings>
+      <imdbRating>0.00</imdbRating>
+      <imdbVotes>139</imdbVotes>
+      <imdbID>tt7740510</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>The Humans</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>24-Nov-21</Released>
+      <Runtime>108</Runtime>
+      <Genre>Drama</Genre>
+      <Director>Stephen Karam</Director>
+      <Writer>Stephen Karam</Writer>
+      <Actors>Beanie Feldstein, Steven Yeun, June Squibb</Actors>
+      <Plot>Set inside a pre-war duplex in downtown Manhattan, The Humans follows the course of an evening in which the Blake family gathers to celebrate Thanksgiving. As darkness falls outside the crumbling building, mysterious things start to </Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BYTZjYzU4NDctNjg0NS00YmIzLTkzMzctZDQ2YjE3ZjEyMDg5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Metacritic</Source>
+      </Ratings>
+      <imdbRating>7.30</imdbRating>
+      <imdbVotes>130</imdbVotes>
+      <imdbID>tt10023286</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>House of Gucci</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>24-Nov-21</Released>
+      <Runtime>157</Runtime>
+      <Genre>Crime, Drama, Thriller</Genre>
+      <Director>Ridley Scott</Director>
+      <Writer>Becky Johnston, Roberto Bentivegna, Sara Gay Forden</Writer>
+      <Actors>Salma Hayek, Jared Leto, Adam Driver</Actors>
+      <Plot>When Patrizia Reggiani, an outsider from humble beginnings, marries into the Gucci family, her unbridled ambition begins to unravel their legacy and triggers a reckless spiral of betrayal, decadence, revenge, and ultimately...murder.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BZThjMTA5YjgtZmViZi00YjY0LTk5MzQtMjUwMGEzZGVlYzFjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Rotten Tomatoes</Source>
+      </Ratings>
+      <imdbRating>0.00</imdbRating>
+      <imdbVotes>0</imdbVotes>
+      <imdbID>tt11214590</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+  <row>
+    <moviedb>
+      <Title>The Matrix Resurrections</Title>
+      <Year>2021</Year>
+      <Rated>R</Rated>
+      <Released>22-Dec-21</Released>
+      <Runtime>140</Runtime>
+      <Genre>Action, Sci-Fi</Genre>
+      <Director>Lana Wachowski</Director>
+      <Writer>Lana Wachowski, David Mitchell, Aleksandar Hemon</Writer>
+      <Actors>Christina Ricci, Keanu Reeves, Yahya Abdul-Mateen II</Actors>
+      <Plot>The plot is currently unknown.</Plot>
+      <Language>English</Language>
+      <Poster>https://m.media-amazon.com/images/M/MV5BMmRmZTA3NzAtN2RlZC00Mjc1LTllZDQtNDc0YTYzZmM4ZTQ1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_SX300.jpg</Poster>
+      <Ratings></Ratings>
+      <Ratings>
+        <Source>Rotten Tomatoes</Source>
+      </Ratings>
+      <imdbRating>0.00</imdbRating>
+      <imdbVotes>0</imdbVotes>
+      <imdbID>tt10838180</imdbID>
+      <BoxOffice> $-   </BoxOffice>
+    </moviedb>
+  </row>
+</root>
